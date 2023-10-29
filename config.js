@@ -6,8 +6,8 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 
-global.owner = [Junior]
-  ['09016326328', 'Junior', true],
+global.owner = [Lord Emmy]
+  ['09016326328', 'Lord Emmy', true],
   [''],
   [''] 
 ] //Number of owners
@@ -47,15 +47,15 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'Junior'
+global.botname = 'Lord Emmy'
 global.premium = 'true'
-global.packname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁🎯𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝚄𝚁𝙴𝚂𝙷☘️' 
-global.author = 'ABHISHEK SURESH' 
+global.packname = 'Lord 🎯Emmy 💗
+global.author = 'Lord Emmy' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/abhishek_ser\n' 
 global.dygp = 'https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD'
-global.fgsc = 'https://github.com/AbhishekSuresh2/ABHISHEK-SER' 
-global.fgyt = 'https://youtube.com/@comedymelodych8468'
-global.fgpyp = 'https://youtube.com/@comedymelodych8468'
+global.fgsc = 
+global.fgyt = 
+global.fgpyp = 
 global.fglog = 'https://replicate.delivery/pbxt/QbP6Fh3ZXwKON9SCB70ERGwwgeeSbztwKIOIzhUeXFkwnFHiA/out.png' 
 
 //imagen
